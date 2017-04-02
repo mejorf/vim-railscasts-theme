@@ -146,3 +146,9 @@ hi! link htmlEndTag           xmlEndTag
 hi checkbox guifg=#3a3a3a guibg=NONE gui=NONE ctermfg=237 ctermbg=NONE cterm=NONE
 hi checkboxDone guifg=#5fff00 guibg=NONE gui=BOLD ctermfg=82 ctermbg=NONE cterm=BOLD
 hi checkboxNotDone guifg=#005fdf guibg=NONE gui=BOLD ctermfg=26 ctermbg=NONE cterm=BOLD
+
+
+"Tab panel colors
+hi TabLineFill cterm=bold ctermbg=238 guibg=#222000
+hi TabLineSel  cterm=bold gui=bold guibg=#222000 guifg=#d75f5f
+hi TabLine     cterm=bold gui=bold guifg=lightgrey guibg=#222000
