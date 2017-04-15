@@ -150,5 +150,5 @@ hi checkboxNotDone guifg=#005fdf guibg=NONE gui=BOLD ctermfg=26 ctermbg=NONE cte
 
 "Tab panel colors
 hi TabLineFill cterm=bold ctermbg=238 guibg=#222222 gui=bold
-hi TabLineSel  cterm=bold gui=bold guibg=#222222 guifg=#d75f5f
+hi TabLineSel  cterm=bold gui=bold guibg=#222222 guifg=#005fdf
 hi TabLine     cterm=bold gui=bold guibg=#222222 guifg=lightgrey 
